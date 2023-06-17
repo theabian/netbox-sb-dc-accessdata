@@ -4,6 +4,7 @@ setup(
     name='netbox-netbox_sb_dc_accessdata',
     version='1.0',
     description='SB DC Accessdata',
+    long_description='Speedbone Datacenter Accessdata integration for netbox via plugin',
     install_requires=[],
     packages=find_packages(),
     include_package_data=True,
