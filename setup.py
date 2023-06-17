@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 
 setup(
     name='netbox_sb_dc_accessdata',
-    version='1.0',
+    version='1.0.1',
     description='SB DC Accessdata',
     long_description='Speedbone Datacenter Accessdata integration for netbox via plugin',
     install_requires=[],
